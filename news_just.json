@@ -1,0 +1,20 @@
+[
+	{
+		"image_url":"http://a0836547.xsph.ru/vetrel.png",
+		"image_icon_url":"http://a0836547.xsph.ru/vetrel.png",
+		"title_icon":"Заголовок новости",
+		"title":"Встречайте наш новый лаунчер",
+		"description":"Какая-то новость",
+		"button":"HELLO",
+		"link":"https://florida-rp.ru/"
+	},
+	{
+		"image_url":"http://a0836547.xsph.ru/vetrel.png",
+		"image_icon_url":"http://a0836547.xsph.ru/vetrel.png",
+		"title_icon":"Заголовок новости",
+		"title":"VETREL STUDIO ",
+		"description":"Какая-то новость 2",
+		"button":"HELLO",
+		"link":"https://florida-rp.ru/"
+	}
+]
