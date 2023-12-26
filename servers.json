@@ -2,8 +2,8 @@
     {
       "ip": "51.75.232.68",
       "port": 1785,
-      "x2": false,
-      "name": "Наме и тет",
+      "x2": true,
+      "name": "Kirill BEST",
       "online": 2,
       "maxonline": 1000
     }
