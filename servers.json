@@ -1,10 +1,20 @@
 [
     {
-      "ip": " 141.95.190.145",
-      "port": 1589,
-      "x2": true,
-      "name": "Привет крикли",
-      "online": 0,
-      "maxonline": 1000
+      "color": "0000ff",
+      "dopname": "(X2)",
+      "maxonline": 1000,
+      "name": "EEE.EDGAR",
+      "online": 47,
+      "edgar_host": "185.189.15.24",
+      "kranin_port": 1307
+    },
+    {
+      "color": "00FFff",
+      "dopname": "[X3]",
+      "maxonline": 1000,
+      "name": "Kraninn",
+      "online": 15,
+      "edgar_host": "141.94.184.108",
+      "kranin_port": 1481
     }
- ]
+]
