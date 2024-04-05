@@ -5,8 +5,8 @@
       "maxonline": 1000,
       "name": "STRONG",
       "online": 47,
-      "edgar_host": "185.189.15.24",
-      "kranin_port": 1307
+      "edgar_host": "185.189.15.22",
+      "kranin_port": 1118
     },
     {
       "color": "00FFff",
