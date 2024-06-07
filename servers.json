@@ -1,20 +1,10 @@
 [
     {
-      "color": "0000ff",
-      "dopname": "(X2)",
-      "maxonline": 1000,
-      "name": "STRONG",
-      "online": 47,
-      "edgar_host": "185.189.15.22",
-      "kranin_port": 1118
-    },
-    {
-      "color": "00FFff",
-      "dopname": "[X3]",
-      "maxonline": 1000,
-      "name": "MARBLE",
-      "online": 15,
-      "edgar_host": "141.94.184.108",
-      "kranin_port": 1481
+      "ip": "185.189.15.22",
+      "port": 1118,
+      "x2": true,
+      "name": "нейм",
+      "online": 555,
+      "maxonline": 1000
     }
 ]
