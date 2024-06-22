@@ -1,10 +1,32 @@
 [
     {
-      "ip": "185.189.15.22",
-      "port": 1118,
-      "x2": true,
-      "name": "нейм",
-      "online": 555,
-      "maxonline": 1000
+      "color": "ff368418",
+      "maxonline": 1000,
+      "name": "МАТРЕШКА MOBILE #1",
+      "online": 1000,
+      "recommend": true,
+      "edgar_host": "185.189.15.22",
+      "edgar_port": 1118,
+      "id": 1
+    },
+   {
+      "color": "30d5c8",
+      "maxonline": 1000,
+      "name": "МАТРЕШКА MOBILE #2",
+      "online": 841,
+      "recommend": true,
+      "edgar_host": "194.93.2.226",
+      "edgar_port": 3049,
+      "id": 2
+    },
+    {
+      "color": "ff0000",
+      "maxonline": 1000,
+      "name": "МАТРЕШКА MOBILE #3",
+      "online": 936,
+      "recommend": false,
+      "edgar_host": "194.93.2.226",
+      "edgar_port": 3049,
+      "id": 3
     }
 ]
