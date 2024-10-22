@@ -1,10 +1,10 @@
 [
     {
-      "ip": "54.36.82.238",
-      "port": 1373,
+      "ip": "194.93.2.226",
+      "port": 3905,
       "x2": false,
-      "name": "Name",
-      "online": 2,
-      "maxonline": 1000
+      "name": "KOMAROVO",
+      "online": 1,
+      "maxonline": 50
     }
  ]
