@@ -1,9 +1,10 @@
 [
     {
-      "color": "FFFF00",
-      "dopname": "(X3)",
-      "maxonline": 1000,
-      "name": "KOMAROVO",
-      "online": 15
+      "ip": "54.36.82.238",
+      "port": 1373,
+      "x2": false,
+      "name": "Name",
+      "online": 2,
+      "maxonline": 1000
     }
-]
+ ]
